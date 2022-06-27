@@ -19,7 +19,7 @@ namespace Projeto_de_Xadrez
                     }
                     else
                     {
-                        Console.WriteLine(tab.peca(i, j) + " ");
+                        Console.Write(tab.peca(i, j) + " ");
                     }
                 }
                 Console.WriteLine();
