@@ -1,0 +1,14 @@
+C:\Users\saojpint\Box\C#\Seção 12 - Projeto - Sitema de jogo de xadrez\Projeto de Xadrez\Projeto de Xadrez\bin\Debug\netcoreapp3.1\Projeto de Xadrez.exe
+C:\Users\saojpint\Box\C#\Seção 12 - Projeto - Sitema de jogo de xadrez\Projeto de Xadrez\Projeto de Xadrez\bin\Debug\netcoreapp3.1\Projeto de Xadrez.deps.json
+C:\Users\saojpint\Box\C#\Seção 12 - Projeto - Sitema de jogo de xadrez\Projeto de Xadrez\Projeto de Xadrez\bin\Debug\netcoreapp3.1\Projeto de Xadrez.runtimeconfig.json
+C:\Users\saojpint\Box\C#\Seção 12 - Projeto - Sitema de jogo de xadrez\Projeto de Xadrez\Projeto de Xadrez\bin\Debug\netcoreapp3.1\Projeto de Xadrez.runtimeconfig.dev.json
+C:\Users\saojpint\Box\C#\Seção 12 - Projeto - Sitema de jogo de xadrez\Projeto de Xadrez\Projeto de Xadrez\bin\Debug\netcoreapp3.1\Projeto de Xadrez.dll
+C:\Users\saojpint\Box\C#\Seção 12 - Projeto - Sitema de jogo de xadrez\Projeto de Xadrez\Projeto de Xadrez\bin\Debug\netcoreapp3.1\Projeto de Xadrez.pdb
+C:\Users\saojpint\Box\C#\Seção 12 - Projeto - Sitema de jogo de xadrez\Projeto de Xadrez\Projeto de Xadrez\obj\Debug\netcoreapp3.1\Projeto de Xadrez.csproj.AssemblyReference.cache
+C:\Users\saojpint\Box\C#\Seção 12 - Projeto - Sitema de jogo de xadrez\Projeto de Xadrez\Projeto de Xadrez\obj\Debug\netcoreapp3.1\Projeto de Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saojpint\Box\C#\Seção 12 - Projeto - Sitema de jogo de xadrez\Projeto de Xadrez\Projeto de Xadrez\obj\Debug\netcoreapp3.1\Projeto de Xadrez.AssemblyInfoInputs.cache
+C:\Users\saojpint\Box\C#\Seção 12 - Projeto - Sitema de jogo de xadrez\Projeto de Xadrez\Projeto de Xadrez\obj\Debug\netcoreapp3.1\Projeto de Xadrez.AssemblyInfo.cs
+C:\Users\saojpint\Box\C#\Seção 12 - Projeto - Sitema de jogo de xadrez\Projeto de Xadrez\Projeto de Xadrez\obj\Debug\netcoreapp3.1\Projeto de Xadrez.csproj.CoreCompileInputs.cache
+C:\Users\saojpint\Box\C#\Seção 12 - Projeto - Sitema de jogo de xadrez\Projeto de Xadrez\Projeto de Xadrez\obj\Debug\netcoreapp3.1\Projeto de Xadrez.dll
+C:\Users\saojpint\Box\C#\Seção 12 - Projeto - Sitema de jogo de xadrez\Projeto de Xadrez\Projeto de Xadrez\obj\Debug\netcoreapp3.1\Projeto de Xadrez.pdb
+C:\Users\saojpint\Box\C#\Seção 12 - Projeto - Sitema de jogo de xadrez\Projeto de Xadrez\Projeto de Xadrez\obj\Debug\netcoreapp3.1\Projeto de Xadrez.genruntimeconfig.cache

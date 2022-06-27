@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tgT3WEyOBMjhBhLHYlUtzpHUQFiji5XO7WaiRkcMWRnW//WsfaUmVp9G7pPsUEfbOyN0CbM0ngOa6uomEqpqJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saojpint\\Box\\C#\\Seção 12 - Projeto - Sitema de jogo de xadrez\\Projeto de Xadrez\\Projeto de Xadrez\\Projeto de Xadrez.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saojpint\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
