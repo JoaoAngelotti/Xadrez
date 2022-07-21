@@ -18,5 +18,10 @@ namespace Projeto_de_Xadrez.Tabuleiro
             QteMovimentos = 0;
             this.tab = tab;
         }
+
+        public void incrementarQtdeMovimentos()
+        {
+            QteMovimentos++;
+        }
     }
 }

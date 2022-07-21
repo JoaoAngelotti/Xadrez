@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using Projeto_de_Xadrez.Tabuleiro;
+using Projeto_de_Xadrez.xadrez;
 
 namespace Projeto_de_Xadrez
 {
@@ -27,6 +28,14 @@ namespace Projeto_de_Xadrez
                 Console.WriteLine();
             }
             Console.WriteLine("  a b c d e f g h");
+        }
+
+        public static PosicaoXadrez lerPosicaoXadrez()
+        {
+            string s = Console.ReadLine();
+            char coluna = s[0];
+            int linha = int.Parse(s[1] + "");
+            return new PosicaoXadrez(coluna, linha);
         }
 
         public static void imprimirPeca(Peca peca)
